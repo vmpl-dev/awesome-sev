@@ -1,0 +1,51 @@
+[submodule "sev-snp-measure"]
+	path = sev-snp-measure
+	url = https://github.com/IBM/sev-snp-measure.git
+[submodule "sev-tool"]
+	path = sev-tool
+	url = https://github.com/AMDESE/sev-tool.git
+[submodule "virtee/sev"]
+	path = virtee/sev
+	url = https://github.com/virtee/sev.git
+[submodule "enarx/sevctl"]
+	path = enarx/sevctl
+	url = https://github.com/enarx/sevctl.git
+[submodule "OSUSecLab/vSGX"]
+	path = OSUSecLab/vSGX
+	url = https://github.com/OSUSecLab/vSGX.git
+[submodule "virtee/sevctl"]
+	path = virtee/sevctl
+	url = https://github.com/virtee/sevctl.git
+[submodule "PSPReverse/amd-sev-migration-attack"]
+	path = PSPReverse/amd-sev-migration-attack
+	url = https://github.com/PSPReverse/amd-sev-migration-attack.git
+[submodule "PSPReverse/Insecure-Until-Proven-Updated-Analyzing-AMD-SEV-s-Remote-Attestation"]
+	path = PSPReverse/Insecure-Until-Proven-Updated-Analyzing-AMD-SEV-s-Remote-Attestation
+	url = https://github.com/PSPReverse/Insecure-Until-Proven-Updated-Analyzing-AMD-SEV-s-Remote-Attestation.git
+[submodule "salrashid123/gcp_cc_sev_demo"]
+	path = salrashid123/gcp_cc_sev_demo
+	url = https://github.com/salrashid123/gcp_cc_sev_demo.git
+[submodule "enarx/sev-iocuddle"]
+	path = enarx/sev-iocuddle
+	url = https://github.com/enarx/sev-iocuddle.git
+[submodule "TCrazylion/SMM-SEV-ResourceCounting"]
+	path = TCrazylion/SMM-SEV-ResourceCounting
+	url = https://github.com/TCrazylion/SMM-SEV-ResourceCounting.git
+[submodule "Masheenist/AMDSEV"]
+	path = Masheenist/AMDSEV
+	url = https://github.com/Masheenist/AMDSEV.git
+[submodule "UzL-ITS/sev-ciphertext-side-channels"]
+	path = UzL-ITS/sev-ciphertext-side-channels
+	url = https://github.com/UzL-ITS/sev-ciphertext-side-channels.git
+[submodule "sandeepg-gupta/kata-containers-2.0.0-SEV"]
+	path = sandeepg-gupta/kata-containers-2.0.0-SEV
+	url = https://github.com/sandeepg-gupta/kata-containers-2.0.0-SEV.git
+[submodule "frozencemetery/sev"]
+	path = frozencemetery/sev
+	url = https://github.com/frozencemetery/sev.git
+[submodule "enarx/snp"]
+	path = enarx/snp
+	url = https://github.com/enarx/snp.git
+[submodule "Fraunhofer-AISEC/severed-framework"]
+	path = Fraunhofer-AISEC/severed-framework
+	url = https://github.com/Fraunhofer-AISEC/severed-framework.git
