@@ -10,9 +10,6 @@
 [submodule "enarx/sevctl"]
 	path = enarx/sevctl
 	url = https://github.com/enarx/sevctl.git
-[submodule "OSUSecLab/vSGX"]
-	path = OSUSecLab/vSGX
-	url = https://github.com/OSUSecLab/vSGX.git
 [submodule "virtee/sevctl"]
 	path = virtee/sevctl
 	url = https://github.com/virtee/sevctl.git
@@ -49,3 +46,36 @@
 [submodule "Fraunhofer-AISEC/severed-framework"]
 	path = Fraunhofer-AISEC/severed-framework
 	url = https://github.com/Fraunhofer-AISEC/severed-framework.git
+[submodule "OSUSecLab/vSGX"]
+	path = OSUSecLab/vSGX
+	url = git@github.com:OSUSecLab/vSGX.git
+[submodule "sev-snp-attestation"]
+	path = dimstav23/sev-snp-attestation
+	url = https://github.com/dimstav23/sev-snp-attestation.git
+[submodule "Freax13/mushroom.git"]
+	path = Freax13/mushroom.git
+	url = git@github.com:Freax13/mushroom.git
+[submodule "verismo"]
+	path = microsoft/verismo
+	url = git@github.com:microsoft/verismo.git
+[submodule "Veil"]
+	path = adilahmad17/Veil
+	url = https://github.com/adilahmad17/Veil.git
+[submodule "mushroom"]
+	path = Freax13/mushroom
+	url = git@github.com:Freax13/mushroom.git
+[submodule "amd-sev-spec"]
+	path = lkml-likexu/amd-sev-spec
+	url = ./amd-sev-spec
+[submodule "heckler"]
+	path = ahoi-attacks/heckler
+	url = git@github.com:ahoi-attacks/heckler.git
+[submodule "WeSee"]
+	path = ahoi-attacks/WeSee
+	url = git@github.com:ahoi-attacks/WeSee.git
+[submodule "linux-svsm"]
+	path = AMDESE/linux-svsm/linux-svsm
+	url = git@github.com:AMDESE/linux-svsm.git
+[submodule "svsm"]
+	path = coconut-svsm/svsm
+	url = git@github.com:coconut-svsm/svsm.git
