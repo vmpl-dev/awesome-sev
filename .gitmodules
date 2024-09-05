@@ -82,3 +82,27 @@
 [submodule "00seven"]
 	path = sev-vmi/00seven
 	url = git@github.com:sev-vmi/00seven.git
+[submodule "snp-svsm-efi-secret"]
+	path = stefano-garzarella/snp-svsm-efi-secret
+	url = git@github.com:stefano-garzarella/snp-svsm-efi-secret.git
+[submodule "spire-amd-sev-snp-node-attestor"]
+	path = ufcg-lsd/spire-amd-sev-snp-node-attestor
+	url = git@github.com:ufcg-lsd/spire-amd-sev-snp-node-attestor.git
+[submodule "sev-step"]
+	path = sev-step/sev-step
+	url = git@github.com:sev-step/sev-step.git
+[submodule "cachepc"]
+	path = sinitax/cachepc
+	url = git@github.com:sinitax/cachepc.git
+[submodule "PWRLEAK"]
+	path = OSUSecLab/PWRLEAK
+	url = git@github.com:OSUSecLab/PWRLEAK.git
+[submodule "CacheWarp"]
+	path = cispa/CacheWarp
+	url = git@github.com:cispa/CacheWarp.git
+[submodule "severifast"]
+	path = SEVeriFast/severifast
+	url = git@github.com:SEVeriFast/severifast.git
+[submodule "honeycomb-osdi23-ae"]
+	path = Jiacheng/honeycomb-osdi23-ae
+	url = git@github.com:Jiacheng/honeycomb-osdi23-ae.git
