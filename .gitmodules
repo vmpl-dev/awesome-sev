@@ -112,3 +112,18 @@
 [submodule "AMDESE/sev-guest"]
 	path = AMDESE/sev-guest
 	url = https://github.com/AMDESE/sev-guest.git
+[submodule "sev-guest_device_mock"]
+	path = Daviiap/sev-guest_device_mock
+	url = git@github.com:Daviiap/sev-guest_device_mock.git
+[submodule "maat"]
+	path = Invary-Runtime-Integrity/maat
+	url = git@github.com:Invary-Runtime-Integrity/maat.git
+[submodule "snp"]
+	path = vrbt/snp
+	url = git@github.com:vrbt/snp.git
+[submodule "SVSM-vTPM-artifacts"]
+	path = svsm-vtpm/SVSM-vTPM-artifacts
+	url = git@github.com:svsm-vtpm/SVSM-vTPM-artifacts.git
+[submodule "snp-svsm-vtpm"]
+	path = stefano-garzarella/snp-svsm-vtpm
+	url = git@github.com:stefano-garzarella/snp-svsm-vtpm.git
