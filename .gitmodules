@@ -106,3 +106,9 @@
 [submodule "honeycomb-osdi23-ae"]
 	path = Jiacheng/honeycomb-osdi23-ae
 	url = git@github.com:Jiacheng/honeycomb-osdi23-ae.git
+[submodule "AMDESE/AMDSEV"]
+	path = AMDESE/AMDSEV
+	url = git@github.com:AMDESE/AMDSEV.git
+[submodule "AMDESE/sev-guest"]
+	path = AMDESE/sev-guest
+	url = https://github.com/AMDESE/sev-guest.git
