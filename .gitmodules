@@ -74,7 +74,7 @@
 	path = ahoi-attacks/WeSee
 	url = git@github.com:ahoi-attacks/WeSee.git
 [submodule "linux-svsm"]
-	path = AMDESE/linux-svsm/linux-svsm
+	path = AMDESE/linux-svsm
 	url = git@github.com:AMDESE/linux-svsm.git
 [submodule "svsm"]
 	path = coconut-svsm/svsm
