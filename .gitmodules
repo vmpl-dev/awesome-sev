@@ -79,3 +79,6 @@
 [submodule "svsm"]
 	path = coconut-svsm/svsm
 	url = git@github.com:coconut-svsm/svsm.git
+[submodule "00seven"]
+	path = sev-vmi/00seven
+	url = git@github.com:sev-vmi/00seven.git
