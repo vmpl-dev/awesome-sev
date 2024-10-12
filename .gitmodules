@@ -58,9 +58,12 @@
 [submodule "verismo"]
 	path = microsoft/verismo
 	url = git@github.com:microsoft/verismo.git
-[submodule "Veil"]
+[submodule "adilahmad17/Veil"]
 	path = adilahmad17/Veil
 	url = https://github.com/adilahmad17/Veil.git
+[submodule "Icegrave0391/Veil"]
+	path = Icegrave0391/Veil
+	url = git@github.com:Icegrave0391/Veil.git
 [submodule "mushroom"]
 	path = Freax13/mushroom
 	url = git@github.com:Freax13/mushroom.git
@@ -94,6 +97,9 @@
 [submodule "cachepc"]
 	path = sinitax/cachepc
 	url = git@github.com:sinitax/cachepc.git
+[submodule "cachepc-AMDSEV"]
+	path = sinitax/cachepc-AMDSEV
+	url = git@github.com:sinitax/cachepc-AMDSEV.git
 [submodule "PWRLEAK"]
 	path = OSUSecLab/PWRLEAK
 	url = git@github.com:OSUSecLab/PWRLEAK.git
@@ -127,3 +133,6 @@
 [submodule "snp-svsm-vtpm"]
 	path = stefano-garzarella/snp-svsm-vtpm
 	url = git@github.com:stefano-garzarella/snp-svsm-vtpm.git
+[submodule "hyper-sev-project"]
+	path = xcp-ng/hyper-sev-project
+	url = git@github.com:xcp-ng/hyper-sev-project.git
