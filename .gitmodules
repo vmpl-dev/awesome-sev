@@ -136,3 +136,6 @@
 [submodule "hyper-sev-project"]
 	path = xcp-ng/hyper-sev-project
 	url = git@github.com:xcp-ng/hyper-sev-project.git
+[submodule "TUM-DSE/CVM_eval"]
+	path = TUM-DSE/CVM_eval
+	url = git@github.com:TUM-DSE/CVM_eval.git
